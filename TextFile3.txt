@@ -1,1 +1,3 @@
 This is text file 3. 
+
+These changes are added to illustrate how branching works. 
